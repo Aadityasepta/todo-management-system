@@ -215,26 +215,11 @@ server.port=8081
 ### Email Not Working
 - Check SMTP settings
 - Ensure less secure app access is enabled (for Gmail)
-- Verify firewall settings
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is open source and available under the MIT License.
+- Verify firewall settings.
 
 ## 👨‍💻 Author
 
-Your Name
+Aaditya Septa
 
-## 🙏 Acknowledgments
-
-- Spring Boot Documentation
-- Thymeleaf Documentation
-- MySQL Documentation
-
----
 
 **Happy Task Management! 📝✅**
